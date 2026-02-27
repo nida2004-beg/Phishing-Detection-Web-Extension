@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #220000, #440000);
+    color: #fff;
+    text-align: center;
+    padding: 30px;
+}
+
+.warning-container {
+    border: 3px solid red;
+    padding: 20px;
+    border-radius: 10px;
+    background: rgba(0,0,0,0.7);
+    max-width: 600px;
+    margin: auto;
+}
+
+h1 {
+    color: #ff3333;
+    margin-bottom: 20px;
+}
+
+.threat-info {
+    text-align: left;
+    margin: 20px auto;
+    max-width: 500px;
+    background: rgba(255,0,0,0.1);
+    padding: 15px;
+    border-radius: 8px;
+}
+
+#threatLevel {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #ff6666;
+}
+
+#riskScore {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #ff9999;
+}
+
+ul#reasonsList {
+    margin-top: 10px;
+    list-style-type: disc;
+    padding-left: 20px;
+    color: #fff;
+}
+
+button {
+    margin-top: 25px;
+    padding: 12px 25px;
+    font-size: 1em;
+    border: none;
+    border-radius: 5px;
+    background: red;
+    color: #fff;
+    cursor: pointer;
+}
+
+button:hover {
+    background: darkred;
+}
