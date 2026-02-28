@@ -26,11 +26,6 @@ This project detects phishing websites by checking the URL using machine learnin
 We built a hybrid phishing detection system that checks whether a website is safe or fake before allowing the user to proceed.
 
 ## Technical Details
-
-
-
-
-
 ### Technologies/Components Used
 
 **For Software:**
@@ -60,23 +55,17 @@ We built a hybrid phishing detection system that checks whether a website is saf
 
 #### Installation
 ```bash
-[Installation commands - e.g., npm install, pip install -r requirements.txt]
+pip install flask
+pip install flask-cors
+pip install scikit-learn pandas numpy joblib python-whois
+pip install notebook
 ```
 
 #### Run
 ```bash
-[Run commands - e.g., npm start, python app.py]
+jupyter notebook
+python app.py
 ```
-
-### For Hardware:
-
-#### Components Required
-[List all components needed with specifications]
-
-#### Circuit Setup
-[Explain how to set up the circuit]
-
----
 
 ## Project Documentation
 
