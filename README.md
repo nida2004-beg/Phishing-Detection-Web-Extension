@@ -13,7 +13,7 @@
 - Member 2: NIDA KOZHIKKODEN - Mar Athanasius College of Engineering
 
 ### Hosted Project Link
-[mention your project hosted link here]
+https://drive.google.com/file/d/1vEd3v-c4kCW0nPDEeUAil2VYZ6aOtXR_/view?usp=drive_link
 
 ### Project Description
 An intelligent phishing URL detection system that combines Machine Learning, Rule-Based Analysis, Blacklist Verification, and Community Reporting to identify malicious websites in real time.
