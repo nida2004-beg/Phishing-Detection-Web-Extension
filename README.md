@@ -342,9 +342,9 @@ python script.py -v --format json data.json
 ## Project Demo
 
 ### Video
-[Add your demo video link here - YouTube, Google Drive, etc.]
+https://drive.google.com/file/d/1-TjeoQHUFn8FDklOnPk97b79gvcA67Kh/view?usp=drive_link
+Demonstration of the Hybrid Phishing Detection System in action: real-time URL verification, explainable threat level, and user-friendly warning interface to protect against phishing websites.
 
-*Explain what the video demonstrates - key features, user flow, technical highlights*
 
 ### Additional Demos
 [Add any extra demo materials/links - Live site, APK download, online demo, etc.]
