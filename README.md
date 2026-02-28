@@ -73,14 +73,14 @@ python app.py
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+https://drive.google.com/file/d/1KN8jta3nDm5BX1hsa30vG9waBjLg0ek0/view?usp=drive_link
+Chrome Extension initialized: waiting for user URL to check if the website is legitimate or phishing.
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+https://drive.google.com/file/d/1ISBrVxKkH8Pc4MwGkITi78Ng4mzUVeOe/view?usp=drive_link
+Checked Phishing URL and showing the reason and giving count of people who reported the site
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+https://drive.google.com/file/d/1FY-RYYy6KFL8Wj2Kh7SF9Mel_TLIDTXK/view?usp=drive_link
+sublink to check whether the given url legitimate or not
 
 #### Diagrams
 
@@ -96,15 +96,6 @@ python app.py
 
 ---
 
-### For Hardware:
-
-#### Schematic & Circuit
-
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
 #### Build Photos
 
